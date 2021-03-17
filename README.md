@@ -11,7 +11,7 @@ Source Code: https://github.com/Jonathan-Vincent/EuropeanHighways
 ![The Growth of Motorways in Europe](https://raw.githubusercontent.com/Jonathan-Vincent/DataVisualisationPortfolio/main/European%20Motorways.png)
 
 ## How Difficult Is Each Country In GeoGuessr?
-Source Code: https://raw.githubusercontent.com/Jonathan-Vincent/GeoGuessrStreaks
+Source Code: https://github.com/Jonathan-Vincent/GeoGuessrStreaks
 
 ![GeoGuessr](https://raw.githubusercontent.com/Jonathan-Vincent/GeoGuessrStreaks/master/barplot%20long.png)
 
