@@ -4,18 +4,21 @@ This Repository showcases a variety of data visualisations I have created for di
 
 ## Cycle Lanes in Europe
 Source Code: https://github.com/Jonathan-Vincent/CycleLanes
-Data Source: OpenStreetMaps, queried using the Overpass API 
+
+Data Source: OpenStreetMaps, queried using the [Overpass API](https://wiki.openstreetmap.org/wiki/Overpass_API)
 
 ![Cycle Lanes](https://raw.githubusercontent.com/Jonathan-Vincent/CycleLanes/main/CycleChart.png)
 
 ## The Growth of Motorways in Europe
 Source Code: https://github.com/Jonathan-Vincent/EuropeanHighways
+
 Data Sources: Wikipedia, ADAC
 
 ![The Growth of Motorways in Europe](https://raw.githubusercontent.com/Jonathan-Vincent/DataVisualisationPortfolio/main/European%20Motorways.png)
 
 ## How Difficult Is Each Country In GeoGuessr?
 Source Code: https://github.com/Jonathan-Vincent/GeoGuessrStreaks
+
 Data Sources: GeoGuessr Challenge HTML files
 
 ![GeoGuessr](https://raw.githubusercontent.com/Jonathan-Vincent/GeoGuessrStreaks/master/barplot%20long.png)
@@ -23,6 +26,7 @@ Data Sources: GeoGuessr Challenge HTML files
 
 ## How Has British Trade Changed Over the Last Twenty Years?
 Source Code: https://github.com/Jonathan-Vincent/UKtrade
-Data Sources: UN GDP growth data, UK ONS trade data
+
+Data Sources: [UN GDP growth data](https://unstats.un.org/unsd/amaapi/api/file/24), [UK ONS trade data](https://www.ons.gov.uk/businessindustryandtrade/internationaltrade/datasets/uktotaltradeallcountriesnonseasonallyadjusted)
 
 ![Correlation](https://raw.githubusercontent.com/Jonathan-Vincent/DataVisualisationPortfolio/main/The%20Future%20of%20British%20Trade%20Graph%202.png)
