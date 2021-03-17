@@ -1,7 +1,5 @@
 # Data Visualisation Portfolio
 
-This Repository showcases some of my Data Visualisations:
-
 ## Cycle Lanes in Europe
 Source Code: https://github.com/Jonathan-Vincent/CycleLanes
 
