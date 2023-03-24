@@ -28,6 +28,11 @@ Data Sources: GeoGuessr Challenge HTML files
 
 ![GeoGuessr](https://raw.githubusercontent.com/Jonathan-Vincent/GeoGuessrStreaks/master/barplot%20long.png)
 
+## How Much Did Covid Affect Birth Rates?
+Data Sources: Assorted Government Websites
+
+![Covid Birth Rates](https://raw.githubusercontent.com/Jonathan-Vincent/GeoGuessrStreaks/master/conception.png)
+
 
 ## How Has British Trade Changed Over the Last Twenty Years?
 Source Code: https://github.com/Jonathan-Vincent/UKtrade
