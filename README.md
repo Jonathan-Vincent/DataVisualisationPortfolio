@@ -31,7 +31,7 @@ Data Sources: GeoGuessr Challenge HTML files
 ## How Much Did Covid Affect Birth Rates?
 Data Sources: Assorted Government Websites
 
-![Covid Birth Rates](https://raw.githubusercontent.com/Jonathan-Vincent/GeoGuessrStreaks/main/conception.png)
+![Covid Birth Rates](https://raw.githubusercontent.com/Jonathan-Vincent/DataVisualisationPortfolio/main/conception.png)
 
 
 ## How Has British Trade Changed Over the Last Twenty Years?
