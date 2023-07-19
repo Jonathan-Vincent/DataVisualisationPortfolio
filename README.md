@@ -21,13 +21,6 @@ Data Sources: Wikipedia, ADAC
 
 ![The Growth of Motorways in Europe](https://raw.githubusercontent.com/Jonathan-Vincent/DataVisualisationPortfolio/main/European%20Motorways.png)
 
-## How Difficult Is Each Country In GeoGuessr?
-Source Code: https://github.com/Jonathan-Vincent/GeoGuessrStreaks
-
-Data Sources: GeoGuessr Challenge HTML files
-
-![GeoGuessr](https://raw.githubusercontent.com/Jonathan-Vincent/GeoGuessrStreaks/master/barplot%20long.png)
-
 ## How Much Did Covid Affect Birth Rates?
 Data Sources: Assorted Government Websites
 
