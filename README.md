@@ -32,4 +32,7 @@ Source Code: https://github.com/Jonathan-Vincent/UKtrade
 
 Data Sources: [UN GDP growth data](https://unstats.un.org/unsd/amaapi/api/file/24), [UK ONS trade data](https://www.ons.gov.uk/businessindustryandtrade/internationaltrade/datasets/uktotaltradeallcountriesnonseasonallyadjusted)
 
-![Correlation](https://raw.githubusercontent.com/Jonathan-Vincent/DataVisualisationPortfolio/main/The%20Future%20of%20British%20Trade%20Graph%202.png)
+![Historical Trade Growth](https://raw.githubusercontent.com/Jonathan-Vincent/DataVisualisationPortfolio/main/The%20Future%20of%20British%20Trade%20Graph%202.png)
+
+
+![Trade Projections](https://raw.githubusercontent.com/Jonathan-Vincent/DataVisualisationPortfolio/main/The%20Future%20of%20British%20Trade%20Graph%201.png)
