@@ -1,6 +1,6 @@
 # Data Visualisation Portfolio
 
-This repository showcases a variety of data visualisations I have created. The charts themselves are all made in R or Python, and the underlying data gathering and manipulation tends to be done in Excel or Python or both.
+This repository showcases a variety of data visualisations I have created. The charts themselves are all made in R or Python, and the underlying data gathering and manipulation was done in Excel or Python.
 
 ## Cycle Lanes in Europe
 Source Code: https://github.com/Jonathan-Vincent/CycleLanes
@@ -25,6 +25,12 @@ Data Sources: Wikipedia, ADAC
 Data Sources: Assorted Government Websites
 
 ![Covid Birth Rates](https://raw.githubusercontent.com/Jonathan-Vincent/DataVisualisationPortfolio/main/conception.png)
+
+## Will the film industry fully recover in 2023?
+Data Sources: Assorted Government Websites
+
+![Film Industry Yearly Revenue](https://raw.githubusercontent.com/Jonathan-Vincent/DataVisualisationPortfolio/main/Vis1_Yearly_Revenue.png)
+![Films gross](https://raw.githubusercontent.com/Jonathan-Vincent/DataVisualisationPortfolio/main/Vis2_Film_Bubbles.png)
 
 
 ## How Has British Trade Changed Over the Last Twenty Years?
