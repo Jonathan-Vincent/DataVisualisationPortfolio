@@ -10,7 +10,7 @@ Data Source: OpenStreetMaps, queried using the [Overpass API](https://wiki.opens
 ![Cycle Lanes](https://raw.githubusercontent.com/Jonathan-Vincent/CycleLanes/main/CycleChart.png)
 
 ## Russian tank losses in Ukraine
-Data Source: 
+Data Source: Oryx
 
 ![Ukraine Losses](https://raw.githubusercontent.com/Jonathan-Vincent/DataVisualisationPortfolio/main/Cumulative%20and%20Proportional.png)
 
