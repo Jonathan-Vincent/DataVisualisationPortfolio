@@ -1,6 +1,8 @@
 # Data Visualisation Portfolio
 
-This repository showcases a variety of data visualisations I have created. The charts themselves are all made in R or Python, and the underlying data gathering and manipulation was done in Excel or Python.
+Articles: [The data visualisations with accompanying article are available here.](https://github.com/Jonathan-Vincent/DataVisualisationPortfolio/blob/main/Portfolio.pdf)
+
+Graphs:
 
 ## Cycle Lanes in Europe
 Source Code: https://github.com/Jonathan-Vincent/CycleLanes
