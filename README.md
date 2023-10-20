@@ -1,6 +1,6 @@
 # Data Visualisation Portfolio
 
-Articles: [The data visualisations with accompanying article are available here.](https://github.com/Jonathan-Vincent/DataVisualisationPortfolio/blob/main/Portfolio.pdf)
+Articles Portfolio: [The data visualisations with accompanying article are available here. (.pdf)](https://github.com/Jonathan-Vincent/DataVisualisationPortfolio/blob/main/Portfolio.pdf)
 
 Graphs:
 
